@@ -1,0 +1,6 @@
+.DS_Store
+project/
+target/*
+!target/scala-2.11/
+target/scala-2.11/*
+!target/scala-2.11/src_managed/
